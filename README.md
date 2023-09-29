@@ -1,3 +1,1 @@
-# MYSQL
-
-University of ILorin TRCN Registration Database Script
+### University of ILorin TRCN Registration Database Script
